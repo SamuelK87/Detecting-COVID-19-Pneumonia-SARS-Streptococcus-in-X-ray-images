@@ -7,3 +7,5 @@ COVID-19 tests are currently hard to come by — there are simply not enough of 
 Since COVID-19 attacks the epithelial cells that line our respiratory tract, we can use X-rays to analyze the health of a patient’s lungs.And given that nearly all hospitals have X-ray imaging machines, it could be possible to use X-rays to test for COVID-19 without the dedicated test kits.
 
 A drawback is that X-ray analysis requires a radiology expert and takes significant time — which is precious when people are sick around the world. Therefore developing an automated analysis system is required to save medical professionals valuable time.
+
+![image](https://user-images.githubusercontent.com/54509188/127798053-f32879f7-14e4-41cf-bd0d-b7f41cf1704f.png)
